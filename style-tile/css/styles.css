@@ -1,0 +1,100 @@
+/* Set Your Own Margin & Padding 
+Color Palette: Blue #11223c, Brown #2b1a06, Lt Brown/gold #614829*/
+body{
+	background-color: #dfdddb;
+}
+.wrapper {
+	margin-top: 25px;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	
+}
+
+h1 {
+	color: #11223c;
+	font-family: 'Cinzel Decorative', cursive;
+}
+
+h2 {
+	color: #2b1a06;
+	font-family: 'Cinzel Decorative', cursive;
+}
+
+h3 {
+	color: #614829;
+	font-family: 'Cinzel Decorative', cursive;
+}
+
+article {
+	font-family: 'Raleway', sans-serif;
+	border-top: solid;
+	padding: 10px;
+}
+
+strong {
+	font-family: raleway;
+
+}
+a {
+	text-decoration: none;
+}
+
+/*a:link {
+	color: #4d4d4d;
+	
+}
+
+a:visited {
+	color: #870000;
+	
+}
+
+a:hover {
+	color: #000;
+	
+}*/
+
+/* Layout for Style Tile*/
+section {
+	margin: 20px 0;
+}
+
+.color-1,
+.color-2,
+.color-3,
+.pattern-1,
+.pattern-2,
+.pattern-3 {
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+
+
+.color-1 {
+	background-color: #11223c;
+}
+.color-2 {
+	background-color: #2b1a06;
+}.color-3 {
+	background-color: #614829;
+}
+
+.pattern-1 {
+	background-image: url("");
+}
+.pattern-2 {
+	background-image: url("");
+}
+
+.pattern-3 {
+	background-image: url("");
+}
+
+
+
+
