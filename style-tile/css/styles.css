@@ -1,7 +1,7 @@
 /* Set Your Own Margin & Padding 
 Color Palette: Blue #11223c, Brown #2b1a06, Lt Brown/gold #614829*/
 body{
-	background-color: #dfdddb;
+	background-image: url("../img/bg-stilearmand.png");
 }
 .wrapper {
 	margin-top: 25px;
@@ -76,12 +76,12 @@ section {
 
 
 .color-1 {
-	background-color: #11223c;
+	background-color: #344866;
 }
 .color-2 {
-	background-color: #2b1a06;
+	background-color: #694d2d ;
 }.color-3 {
-	background-color: #614829;
+	background-color: #96744a;
 }
 
 .pattern-1 {
